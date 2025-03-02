@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My very First Repo 🚀
+#  My very First Repo 🚀
 
 # 👋 Hi, I'm [Melody]
 
@@ -37,7 +37,7 @@
 - 🎯 Problem-Solving
 - 🚀 Adaptability
 
----Disciplined
+---# Disciplined
 
 ## 📌 Projects
 
@@ -45,14 +45,14 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** My very first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 My very first project using GitHub to manage files.  
+🔹 ✅ Completed
 
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
+🔹 # A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
+🔹 **⏳ In Progress
 
 ---
 
@@ -61,14 +61,14 @@ Here are some of my milestone projects (to be updated as I progress!):
 - 🚀 Get very good at using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others.
--Up up we go
+-  #   Up up we go
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mels1988)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/melody-mawoneke)  
-📧 Email: [youremail@example.com](mmawoneke1988@gmail.com)
+https:github.com/Mels1988
+https://linkedin.com/in/melody-mawoneke  
+📧 Email: mmawoneke1988@gmail.com
 
 ---
 
