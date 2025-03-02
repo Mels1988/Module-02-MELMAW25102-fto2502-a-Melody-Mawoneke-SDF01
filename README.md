@@ -1,6 +1,6 @@
 #  My very First Repo 🚀
 
-# 👋 Hi, I'm [Melody]
+# 👋 Hi, I'm Melody
 
 🌱 Beginner Software Developer | 🚀  Super Excited to Learn & Build
 
